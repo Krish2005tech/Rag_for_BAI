@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+rate_limit.json
+venv/
+.DS_Store

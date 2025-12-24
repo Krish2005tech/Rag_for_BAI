@@ -1,0 +1,4 @@
+gradio
+numpy
+python-dotenv
+langchain-nvidia-ai-endpoints
